@@ -1,4 +1,5 @@
-# Geojson formatter plugin for Embulk
+# Geojson formatter plugin for Embulk [![Gem](https://img.shields.io/gem/v/embulk-formatter-geojson.svg)]() [![Gem](https://img.shields.io/gem/dv/embulk-formatter-geojson/stable.svg)]()
+=====
 
 Geojson formatter based on given `.geojson` template file.
 This plugin inject properties passed from input to template `.geojson` file.
