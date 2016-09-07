@@ -1,5 +1,5 @@
 # Geojson formatter plugin for Embulk
-[![Gem](https://img.shields.io/gem/v/embulk-formatter-geojson.svg)]() [![Gem](https://img.shields.io/gem/dv/embulk-formatter-geojson/stable.svg)]()
+[![Gem](https://img.shields.io/gem/v/embulk-formatter-geojson.svg)](https://rubygems.org/gems/embulk-formatter-geojson) [![Gem](https://img.shields.io/gem/dv/embulk-formatter-geojson/stable.svg)](https://rubygems.org/gems/embulk-formatter-geojson)
 
 Geojson formatter based on given `.geojson` template file.
 This plugin inject properties passed from input to template `.geojson` file.
